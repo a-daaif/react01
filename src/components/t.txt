@@ -1,0 +1,4 @@
+App -> x=66
+---Bar --> Affiche x
+---Foo --> modifier x
+   ---Lib
